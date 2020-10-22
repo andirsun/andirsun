@@ -7,13 +7,14 @@
 - 🤔 I’m looking for help with 
 - 💬 Ask me about everything!
 - 📫 How to reach me: [@alaverdeg](https://twitter.com/alaverdeg)
+
 ### Connect with me:
 
 [<img align="left" alt="andersonlaverde.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="alaverdeg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="alaverdeg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="alaverdeg | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br/>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
@@ -34,7 +35,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br/>
 
 ### Spotify Playing 🎧
 
@@ -45,3 +45,5 @@
 [twitter]: https://twitter.com/alaverde
 [instagram]: https://instagram.com/alaverdeg
 [linkedin]: https://linkedin.com/in/alaverdeg
+<img align="left" alt="Anderson GitHub Stats" src="https://github-readme-stats.andirsun.vercel.app/api?username=andirsun&show_icons=true&hide_border=true" />
+
