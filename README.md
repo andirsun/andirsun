@@ -1,7 +1,7 @@
 ### Hi there, I'm [Anderson][website] <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ## I'm an Engineer, CEO, Developer and Startups Lover!
-- 🔭 I’m currently working on develop my Startup vakyma
+- 🔭 I’m currently working as CEO at Slinqer Startup 
 - 🌱 I’m currently learning how to develop in Vala language
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with 
