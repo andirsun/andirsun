@@ -7,10 +7,8 @@
 - 🤔 I’m looking for help with 
 - 💬 Ask me about everything!
 - 📫 How to reach me: [@alaverdeg](https://twitter.com/alaverdeg)
-## Spotify Playing 🎧
 
-[![Spotify](https://novatorem.andirsun.vercel.app/api/spotify)](https://open.spotify.com/user/12141309398)
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="andersonlaverde.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="alaverdeg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -18,7 +16,7 @@
 [<img align="left" alt="alaverdeg | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
