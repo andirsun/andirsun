@@ -1,9 +1,9 @@
 ### Hi there, I'm [Anderson][website] <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ## I'm an Engineer, CEO at @Slinqer, Developer and Startups Lover!
-- 🌱 I’m currently learning how to develop software products to decrease carbon emissions
+- 🌱 I’m currently learning how to create a marketplace in Etherium network with solidity.
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with image processing.
+- 🤔 I’m looking for help with deploy smart contracts in EVM with solidity.
 - 💬 Ask me about everything!
 - 📫 How to reach me at twitter: [@andirsunn](https://twitter.com/andirsunn)
 
