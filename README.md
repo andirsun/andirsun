@@ -1,4 +1,4 @@
-### Hi there, I'm [Anderson][website] <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there, I'm [Anderson](https://andersonlaverde.tk) <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ## I'm a Software Engineer at @webalys-hq, Gamer, Linux geek, Steam deck owner and fintech startups Lover!
 - 🌱 I’m currently learning how to create a custom linux kernel module on Asahi Linux
@@ -31,5 +31,3 @@
 -->
 
 <img align="left" alt="Anderson GitHub Stats" src="https://github-readme-stats.andirsun.vercel.app/api?username=andirsun&show_icons=true&hide_border=true" />
-
-[website]: https://andersonlaverde.tk
