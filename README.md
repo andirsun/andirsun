@@ -1,6 +1,6 @@
 ### Hi there, I'm [Anderson][website] <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-## I'm an Engineer, CEO at @Slinqer, Developer and Startups Lover!
+## I'm a Software Engineer at @webalys-hq, Gamer, Linux geek, Steam deck owner and fintech startups Lover!
 - 🌱 I’m currently learning how to create a custom linux kernel module on Asahi Linux
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with the Linux kernel compilation.
