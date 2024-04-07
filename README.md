@@ -1,18 +1,21 @@
-### Hi there, I'm [Anderson](https://andersonlaverde.tk) <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there, I'm [Anderson](https://andersonlaverde.com) <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ## Currently listening on my headphones Sony WH-1000XM4
 [![](https://spotify-currently-playing-track-eight.vercel.app/api)](https://spotify-currently-playing-track-eight.vercel.app/api)
 
-## I'm a Software Engineer at @webalys-hq, Gamer, Linux geek, Steam deck owner and fintech startups Lover!
+## Software Engineer at @webalys-hq since 2021, Gamer, Linux geek, Steam deck owner and fintech startups Lover!
 - 🌱 I’m currently learning how to create a custom linux kernel module on Asahi Linux
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with the Linux kernel compilation.
+- I'm learning how to create GUI apps using Rust + Gtk 4
 - 💬 Ask me about everything!
 - 📫 How to reach me at twitter: [@andirsunn](https://twitter.com/andirsunn)
-- 📫 How to reach me at Mastodon: [@andirsun](https://cloud-native.social/@andirsun)
+- 📫 How to reach me at Mastodon: [@andirsun](https://mastodon.social/@andirsun)
 
-## Languages and Tools:
+<img align="left" alt="Anderson GitHub Stats" src="https://github-readme-stats.andirsun.vercel.app/api?username=andirsun&show_icons=true&hide_border=true" />
+
 <!--
+## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -32,4 +35,4 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 -->
 
-<img align="left" alt="Anderson GitHub Stats" src="https://github-readme-stats.andirsun.vercel.app/api?username=andirsun&show_icons=true&hide_border=true" />
+
