@@ -1,5 +1,8 @@
 ### Hi there, I'm [Anderson](https://andersonlaverde.tk) <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
+## Currently listening on my headphones Sony WH-1000XM4
+[![](https://spotify-currently-playing-track-eight.vercel.app/api)](https://spotify-currently-playing-track-eight.vercel.app/api)
+
 ## I'm a Software Engineer at @webalys-hq, Gamer, Linux geek, Steam deck owner and fintech startups Lover!
 - 🌱 I’m currently learning how to create a custom linux kernel module on Asahi Linux
 - 👯 I’m looking to collaborate on open source projects
@@ -7,7 +10,6 @@
 - 💬 Ask me about everything!
 - 📫 How to reach me at twitter: [@andirsunn](https://twitter.com/andirsunn)
 - 📫 How to reach me at Mastodon: [@andirsun](https://cloud-native.social/@andirsun)
-
 
 ## Languages and Tools:
 <!--
