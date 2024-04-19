@@ -4,7 +4,7 @@
 [![](https://spotify-currently-playing-track-eight.vercel.app/api)](https://spotify-currently-playing-track-eight.vercel.app/api)
 
 ## Software Engineer at @webalys-hq since 2021, Gamer, Linux geek, Steam deck owner and fintech startups Lover!
-- 🌱 I’m currently learning how to create a custom linux kernel module on Asahi Linux
+- 🌱 I’m currently contributing to flatpak flathub ecosystem (https://github.com/flathub/electron-sample-app/pull/11)
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with the Linux kernel compilation.
 - I'm learning how to create GUI apps using Rust + Gtk 4
