@@ -4,6 +4,7 @@
 [![](https://spotify-currently-playing-track-eight.vercel.app/api)](https://spotify-currently-playing-track-eight.vercel.app/api)
 
 ## Software Engineer at @webalys-hq since 2021, Gamer, Linux geek, Steam deck owner and fintech startups Lover!
+- [My Open Source contributions](https://www.notion.so/andersonlaverde/My-Contributions-16beacf5a7b746c9a5be6d3feef2e1c0)
 - 🌱 I’m currently contributing to flatpak flathub ecosystem (https://github.com/flathub/electron-sample-app/pull/11)
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with the Linux kernel compilation.
